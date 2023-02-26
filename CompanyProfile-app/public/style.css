@@ -1,0 +1,75 @@
+* {
+    font-family: "Poppins", sans-serif;
+}
+
+.dropdown:hover > .dropdown-menu {
+    display: block;
+}
+
+.custom-link a {
+    color: rgb(50, 50, 50);
+    font-weight: bolder;
+}
+.custom-link a:hover {
+    color: orange;
+}
+
+.dropdown-menu li p {
+    font-size: 14px;
+}
+
+.card p {
+    font-size: 12px;
+}
+
+.card h6 {
+    font-weight: bolder;
+}
+
+#ft-p {
+    font-size: 12.5px;
+    color: #ffff;
+}
+
+#conOS > a:hover {
+    font-weight: bold;
+}
+
+.product {
+    transition: all 0.2s;
+}
+
+.product:hover {
+    transform: scale(1.03);
+    box-shadow: -1px 6px 30px -12px rgba(0, 0, 0, 0.75);
+}
+
+#lamarLink {
+    font-size: 15px;
+    display: inline-block;
+    width: 300px;
+    border-radius: 20px;
+    background-color: orange;
+    text-decoration: none;
+    color: #ffff;
+}
+
+#lamarLink:hover {
+    display: inline-block;
+    background-color: #ffff;
+    color: orange;
+    border: 1px solid orange;
+}
+
+.product p {
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.product ul li {
+    font-size: 12px;
+}
+
+#p-industri {
+    font-size: 14px;
+}
